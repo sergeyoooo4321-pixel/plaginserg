@@ -1,0 +1,15 @@
+{
+  "name": "plaginserg",
+  "version": "0.1.0",
+  "description": "Прораб — contract-first оркестратор декомпозиции для Claude Code: заморозь контракты швов, и даже зависимые микрозадачи идут параллельно.",
+  "author": {
+    "name": "sergeyoooo4321-pixel"
+  },
+  "keywords": [
+    "orchestration",
+    "decomposition",
+    "contract-first",
+    "agents",
+    "prorab"
+  ]
+}
