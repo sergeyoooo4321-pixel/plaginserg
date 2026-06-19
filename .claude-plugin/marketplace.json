@@ -1,0 +1,16 @@
+{
+  "name": "plaginserg",
+  "owner": {
+    "name": "sergeyoooo4321-pixel"
+  },
+  "metadata": {
+    "description": "Прораб — contract-first оркестратор декомпозиции задач для Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "plaginserg",
+      "source": "./",
+      "description": "Прораб — contract-first оркестратор декомпозиции: заморозь контракты швов, и даже зависимые микрозадачи идут параллельно."
+    }
+  ]
+}
